@@ -29,6 +29,7 @@
     <a href="https://instagram.com/avtsynov.s" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />
     </a>
+    <a href="https://vk.com/night_darlok" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
