@@ -4,7 +4,7 @@
 
 Я frontend-разработчик с 2022 года. Специализируюсь на <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="16" height="16"/>React, так же изучал мобильную разработку, пробовал разрабатывать на языук <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="git" alt="git" width="16" height="16"/>Dart и фреймворке <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="git" alt="git" width="16" height="16"/>Flutter.
 
-### Мой онсонвой стек технологий:
+### Мой основной стек технологий:
 
 1. JavaScript
 2. TypeScript
