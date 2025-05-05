@@ -54,6 +54,8 @@
 
 Изучал мобильную разработку, пробовал разрабатывать на языке <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="git" alt="git" width="16" height="16"/>Dart и фреймворке <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="git" alt="git" width="16" height="16"/>Flutter.
 
+#### [База знаний](https://wiki.yandex.ru/homepage/4eb1c741f36a/)
+
 ### 💻 Технологии:
 
 <div>
